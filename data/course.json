@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2017",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Photography"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ],
+    [
+      "Humanities",
+      "Language",
+      "French"
+    ]
+  ],
+  "legacy_uid": "b480d3b0-9822-d6ef-54d5-e8713061cce5",
+  "instructors": {
+    "content": [
+      "69e02dfa-3bda-75c6-4e19-324ed077d48b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1e49b011-4f37-5828-8898-d58b1f8e85e0",
+    "website": "21g-049-french-photography-spring-2017"
+  },
+  "course_title": "French Photography",
+  "hide_download": true,
+  "course_description": "This course introduces students to the world of French photography from its invention in the 1820s to the present. It provides exposure to major photographers and images of the French tradition, and encourages students to explore the social and cultural roles and meanings of photographs. Designed to help students navigate their own photo-saturated worlds, it also provides opportunity to gain practical experience in photography. Taught in English.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.049",
+  "course_image_thumbnail": {
+    "content": "a94fe710-4b70-acff-0320-0b23544286c7",
+    "website": "21g-049-french-photography-spring-2017"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments",
+    "Image Gallery"
+  ],
+  "site_uid": "d5de041f-f4b1-44de-906b-252009479ea6",
+  "site_short_id": "21g.049-spring-2017",
+  "site_url_path": "courses/21g-049-french-photography-spring-2017",
+  "title": "Course Metadata"
+}

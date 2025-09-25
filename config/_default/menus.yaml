@@ -1,0 +1,31 @@
+leftnav:
+- identifier: e1123ff4-e666-a9f0-c5bd-b339668c1e5a
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: ff83dfbc-d120-dab0-caee-5f9e164fa6b9
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 6d4817ab-cde1-4cc2-74ce-3a54c7243035
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 5bd3d34a-fffc-c08e-9a87-7b3fd05637da
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 4f04d25a-a1dd-c613-85c5-529160d13a91
+  name: Study Materials
+  pageRef: /pages/study-materials
+  weight: 50
+- identifier: 6c9a455d-8374-1a2d-f31d-f3a4e0c2087d
+  name: Visual Analysis Papers
+  pageRef: /pages/assignments/visual-analysis-papers/
+  parent: 5bd3d34a-fffc-c08e-9a87-7b3fd05637da
+  weight: 10
+- identifier: 531dc9ed-4b52-fa86-6fe1-d5627d7b5a44
+  name: Presentations and Sources
+  pageRef: /pages/assignments/presentations-and-sources
+  parent: 5bd3d34a-fffc-c08e-9a87-7b3fd05637da
+  weight: 20

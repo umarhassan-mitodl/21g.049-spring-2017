@@ -8,8 +8,10 @@ file_size: 84841
 file_type: image/jpeg
 image_metadata:
   caption: "Manually manipulated image of Ni\xE9pce's \"View from the Window at Le\
-    \ Gras.\" Image is in the public domain. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce#/media/File:View_from_the_Window_at_Le_Gras,_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg)."
-  credit: 'Image is in the public domain. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/Nic%C3%A9phore_Ni%C3%A9pce#/media/File:View_from_the_Window_at_Le_Gras,_Joseph_Nic%C3%A9phore_Ni%C3%A9pce.jpg).'
+    \ Gras.\" Image is in the public domain. Source: {{% resource_link \"1b1946b9-0d30-4244-99d3-08ce26e48a46\"\
+    \ \"Wikimedia Commons\" %}}."
+  credit: 'Image is in the public domain. Source: {{% resource_link "1b1946b9-0d30-4244-99d3-08ce26e48a46"
+    "Wikimedia Commons" %}}.'
   image-alt: The courtyard at Le Gras from an upstairs window.
 learning_resource_types: []
 license: https://creativecommons.org/publicdomain/zero/1.0/

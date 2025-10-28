@@ -8,8 +8,10 @@ file_size: 45096
 file_type: image/jpeg
 image_metadata:
   caption: "Composite photo of a pelican in flight by \xC9tienne-Jules Marey, c. 1880s.\
-    \ Image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marey_-_birds.jpg)."
-  credit: 'Image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marey_-_birds.jpg).'
+    \ Image is in the public domain. Source: {{% resource_link \"24ceea73-f50e-4225-8b97-109f621b85f5\"\
+    \ \"Wikimedia Commons\" %}}."
+  credit: 'Image is in the public domain. Source: {{% resource_link "24ceea73-f50e-4225-8b97-109f621b85f5"
+    "Wikimedia Commons" %}}.'
   image-alt: Twelve consecutive images of a pelican landing.
 learning_resource_types: []
 license: https://creativecommons.org/publicdomain/zero/1.0/

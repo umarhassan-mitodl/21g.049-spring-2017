@@ -8,8 +8,10 @@ file_size: 77447
 file_type: image/jpeg
 image_metadata:
   caption: 'A composite photograph made from five negatives by Henry Peach Robinson
-    in 1858. Image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fading_Away.jpg).'
-  credit: 'Image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fading_Away.jpg).'
+    in 1858. Image is in the public domain. Source: {{% resource_link "9addb712-2645-4cbf-97fc-ae62cb774a6c"
+    "Wikimedia Commons" %}}.'
+  credit: 'Image is in the public domain. Source: {{% resource_link "9addb712-2645-4cbf-97fc-ae62cb774a6c"
+    "Wikimedia Commons" %}}.'
   image-alt: A young woman reclining in her death bed surrounded by her family.
 learning_resource_types: []
 license: https://creativecommons.org/publicdomain/zero/1.0/

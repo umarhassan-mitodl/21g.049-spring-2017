@@ -8,8 +8,10 @@ file_size: 99497
 file_type: image/jpeg
 image_metadata:
   caption: '"Children playing skittles, Place d''Erlon", Marne, Rheims, January-March
-    1917. This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reims_place_Drouet_d%27Erlon_d%C3%A9but_1917.jpg).'
-  credit: 'This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Reims_place_Drouet_d%27Erlon_d%C3%A9but_1917.jpg).'
+    1917. This image is in the public domain. Source: {{% resource_link "3e8f653a-5e68-4ebf-b138-4b3b66a06d53"
+    "Wikimedia Commons" %}}.'
+  credit: 'This image is in the public domain. Source: {{% resource_link "3e8f653a-5e68-4ebf-b138-4b3b66a06d53"
+    "Wikimedia Commons" %}}.'
   image-alt: A group of four boys playing with multicolored wooden toys on a cobblestone
     street amidst rubble.
 learning_resource_types: []

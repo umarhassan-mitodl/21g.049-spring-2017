@@ -7,8 +7,10 @@ file_size: 94673
 file_type: image/jpeg
 image_metadata:
   caption: "Ni\xE9pce's \"View from the Window at Le Gras.\" Image is in the public\
-    \ domain. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras#/media/File:Point_de_vue_du_Gras_by_Ni%C3%A9pce,_1826.jpg)."
-  credit: 'Image is in the public domain. Source: [Wikimedia Commons](https://en.wikipedia.org/wiki/View_from_the_Window_at_Le_Gras#/media/File:Point_de_vue_du_Gras_by_Ni%C3%A9pce,_1826.jpg).'
+    \ domain. Source: {{% resource_link \"e2b677f8-3cc1-4562-b2ea-091afb4e9e3f\" \"\
+    Wikimedia Commons\" %}}."
+  credit: 'Image is in the public domain. Source: {{% resource_link "e2b677f8-3cc1-4562-b2ea-091afb4e9e3f"
+    "Wikimedia Commons" %}}.'
   image-alt: The first surviving permanent direct positive photo.
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

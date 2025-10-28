@@ -36,13 +36,13 @@ The Decisive Moment with Special Guest Dr. Nadya Bair
 
 ### Watch
 
-Travelartist Streetphotography. “[Henri Cartier-Bresson: The Decisive Moment](https://www.youtube.com/watch?v=77tzsMxhRiA).” August 31, 2016. YouTube.
+Travelartist Streetphotography. “{{% resource_link "4b3da922-8f79-4f8e-96d3-7fe196db3c82" "Henri Cartier-Bresson: The Decisive Moment" %}}.” August 31, 2016. YouTube.
 
 ### Read
 
-Cartier-Bresson, Henri. *The Decisive Moment*. Steidl, 2015. ISBN: 9783869307886. \[Buy from [Steidl](https://steidl.de/Books/The-Decisive-Moment-0516515559.html) Books\]
+Cartier-Bresson, Henri. *The Decisive Moment*. Steidl, 2015. ISBN: 9783869307886. \[Buy from {{% resource_link "1957f8a1-4ca6-44bf-a80e-20556dce7fcc" "Steidl" %}} Books\]
 
-Nadya Bair, “[The Decisive Network: Producing Henri Cartier-Bresson at Mid-century](http://www.tandfonline.com/doi/full/10.1080/03087298.2016.1146445).” *History of Photography* 40, no. 2 (2016): 146-166.
+Nadya Bair, “{{% resource_link "251c4191-e639-42c3-8dcc-c906b6d4cf85" "The Decisive Network: Producing Henri Cartier-Bresson at Mid-century" %}}.” *History of Photography* 40, no. 2 (2016): 146-166.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -58,15 +58,15 @@ Is it Technology?
 
 ### Watch
 
-At least one of the videos from the [Photographic Processes Series](http://www.youtube.com/playlist?list=PL4F918844C147182A) made by the George Eastman House.
+At least one of the videos from the {{% resource_link "2fac034b-f531-4393-a1e8-36afd112443b" "Photographic Processes Series" %}} made by the George Eastman House.
 
 ### Look At
 
-[Wilfrid Rouff’s Official Website](https://www.wilfridrouff.com/).
+{{% resource_link "fe0fda22-ca7d-49f1-bf41-b3bee903aa8c" "Wilfrid Rouff’s Official Website" %}}.
 
 ### Read
 
- Warren, Bruce. "Technical History of Photography." In *Photography: The Concise Guide*. 2nd ed. Wadsworth Publishing, 2011. ISBN: 9780495897804. \[Preview with [Google Books](https://books.google.com/books?id=FQtuNqweX8sC&lpg=PP1&pg=PT203)\]
+ Warren, Bruce. "Technical History of Photography." In *Photography: The Concise Guide*. 2nd ed. Wadsworth Publishing, 2011. ISBN: 9780495897804. \[Preview with {{% resource_link "03ebe92a-2391-4fc9-b41a-9a02bd3bf918" "Google Books" %}}\]
 
 Daguerre, Louis Jacques Mandé. "Daguerreotype." In *Classic Essays on Photography*. Edited by Alan Trachtenberg. Leete's Island Books, 1980. ISBN: 9780918172082.
 
@@ -88,13 +88,13 @@ Albert Kahn & The Archives de la Planète
 
 Okuefuna, David. *The Dawn of the Color Photograph: Albert Kahn's Archives of the Planet*. Princeton University Press, 2008. pp. 9–27. ISBN: 978-0691139074.
 
-Murray, Susan. “[Digital Images, Photo-Sharing, and Our Shifting Notions of Everyday Aesthetics](http://vcu.sagepub.com/content/7/2/147).” *Journal of Visual Culture* 7 (2008): 147–163.
+Murray, Susan. “{{% resource_link "23c928c9-33c0-47e2-af44-0d2550a34273" "Digital Images, Photo-Sharing, and Our Shifting Notions of Everyday Aesthetics" %}}.” *Journal of Visual Culture* 7 (2008): 147–163.
 
 ### Watch
 
-CITRIS. "[Visualizing Space, Elizabeth Kessler](https://www.youtube.com/watch?v=CzqV5T-XCXk)." November 4, 2014. YouTube.
+CITRIS. "{{% resource_link "6f547f61-3024-4b99-8f72-8bde2a91d1fc" "Visualizing Space, Elizabeth Kessler" %}}." November 4, 2014. YouTube.
 
-"Edwardians in Colour: The Wonderful World of Albert Kahn." Episodes 1–5. BBC (documentary). \[Watch [Episode 1 on YouTube](https://www.youtube.com/watch?v=vpijOSSlZCI)\]
+"Edwardians in Colour: The Wonderful World of Albert Kahn." Episodes 1–5. BBC (documentary). \[Watch {{% resource_link "2bc844a4-00ea-4009-9c14-490b698b62a2" "Episode 1 on YouTube" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -114,9 +114,9 @@ Barthes, Roland. *Camera Lucida: Reflections on Photography*. Hill and Wang, 201
 
 \[Myth\] “The Harcourt Actor.”
 
-Grenier, Roger. *A Box of Photographs*. University Of Chicago Press, 2013, pp. 6–11 and 104–107. ISBN: 9780226308319. \[Preview with [Google Books\]](http://books.google.com/books?id=d4yFxmV4eqcC&pg=PAfrontcover)
+Grenier, Roger. *A Box of Photographs*. University Of Chicago Press, 2013, pp. 6–11 and 104–107. ISBN: 9780226308319. \[Preview with {{% resource_link "1e64b95f-693d-4099-9aa0-f1a87b84bc1a" "Google Books]" %}}
 
-Stallabrass, Julian. “[On Selfies](https://www.lrb.co.uk/v36/n11/julian-stallabrass/on-selfies).” *London Review of Books* 36, no. 11 (2014): 20.
+Stallabrass, Julian. “{{% resource_link "89829d5b-6113-4e7b-b4eb-8febc9d442ac" "On Selfies" %}}.” *London Review of Books* 36, no. 11 (2014): 20.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -134,11 +134,11 @@ Protest Photography from May ’68 to Nuit Debut
 
 \[Myth\] “Electoral Photogeny.”
 
-If you don't read French, please read this article: Reynolds, Francis. "[Chim's Eye: On Photography and Politics](https://www.thenation.com/article/archive/chims-eye-photography-and-politics/)." *The Nation*. April 15, 2013.
+If you don't read French, please read this article: Reynolds, Francis. "{{% resource_link "52ce1592-95d4-41e9-8d90-b3bcf0e32435" "Chim's Eye: On Photography and Politics" %}}." *The Nation*. April 15, 2013.
 
-French readers please read this article: Guiol, Elsa et Stéphanie Marteau. “[Y a-t-il un président pour sauver la presse people ?](http://www.lemonde.fr/m-actu/article/2014/02/07/y-a-t-il-un-president-pour-sauver-la-presse-people_4361082_4497186.html#meter_toaster)” *M le magazine du Monde*. 7 fevrier 2014.
+French readers please read this article: Guiol, Elsa et Stéphanie Marteau. “{{% resource_link "a0016b86-714b-4995-ac9c-d446dbf40dbf" "Y a-t-il un président pour sauver la presse people ?" %}}” *M le magazine du Monde*. 7 fevrier 2014.
 
-Quinn, Ben. "[French Police Make Women Remove Clothing on Nice Beach Following Burkini Ban](https://www.theguardian.com/world/2016/aug/24/french-police-make-woman-remove-burkini-on-nice-beach)." The Guardian. 23 August 2016. 
+Quinn, Ben. "{{% resource_link "bf86755e-0aea-486c-b49a-5b31521c0d43" "French Police Make Women Remove Clothing on Nice Beach Following Burkini Ban" %}}." The Guardian. 23 August 2016. 
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -154,7 +154,7 @@ Documenting Urbanism
 
 ### Watch
 
-Rob Hooley. “[André Kertesz BBC Master Photographers (1983)](https://www.youtube.com/watch?v=Olc_QLDPUeU).” April 14, 2013. YouTube.
+Rob Hooley. “{{% resource_link "9381d50e-fb11-4a38-8685-afafa49d5060" "André Kertesz BBC Master Photographers (1983)" %}}.” April 14, 2013. YouTube.
 
 ### Read
 
@@ -164,7 +164,7 @@ Stallabras, Julian. “Paris Pictured: Street Photography 1900-1968.” Royal Ac
 
 Meyerowitz Colin and Joel Westerbeck, “An American in Paris.” In *Bystander: A History of Street Photography.* 1994\_.\_ pp. 343–350. ISBN: 0-8212-1755-0.
 
-Rafman, Jon. “[The Nine Eyes of Google Street View](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/)” + Comments. August 12, 2009. Art F City.
+Rafman, Jon. “{{% resource_link "283df26e-1cf7-4e18-ae42-be1cd926fcbb" "The Nine Eyes of Google Street View" %}}” + Comments. August 12, 2009. Art F City.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
@@ -180,7 +180,7 @@ Peer Review Workshop
 
 ### Watch
 
-"[Harold "Doc" Edgerton - How Fast is Fast?](https://infinitehistory.mit.edu/video/how-fast-fast%E2%80%94harold-doc-edgerton)" From the Vault Video Collection. MIT+150. Produced by MIT Video Productions for the Edgerton Foundation, 1994.
+"{{% resource_link "fc4fae35-0289-4a97-b061-08cada60b040" "Harold \"Doc\" Edgerton - How Fast is Fast?" %}}" From the Vault Video Collection. MIT+150. Produced by MIT Video Productions for the Edgerton Foundation, 1994.
 
 ### Read
 
@@ -202,7 +202,7 @@ Photography & Painting
 
 Benjamin, Walter. *The Work of Art in the Age of Mechanical Reproduction*. CreateSpace Independent Publishing Platform, 2010. ISBN: 9781453722480.
 
-Krauss, Rosalind. "[The Photographic Conditions of Surrealism](http://www.jstor.org/stable/778652)." *October* 19 (1981): 3–34.
+Krauss, Rosalind. "{{% resource_link "40b403b9-93b1-4b9d-bbde-4ec610daa252" "The Photographic Conditions of Surrealism" %}}." *October* 19 (1981): 3–34.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
@@ -218,13 +218,13 @@ Exhibition Review Workshop
 
 ### Read
 
-Exhibition Reviews by Sarah Moroz: "[Sarah Moroz: A Media Portfolio.](http://sarahmoroz.tumblr.com/)" Sarah Moroz's tumblr page.
+Exhibition Reviews by Sarah Moroz: "{{% resource_link "14c07e67-946b-40f3-88e4-c088ff09edf2" "Sarah Moroz: A Media Portfolio." %}}" Sarah Moroz's tumblr page.
 
-Reviews by Sean O'Hagan: [Profile: Sean O'Hagan](http://www.theguardian.com/profile/seanohagan). *The Guardian*.
+Reviews by Sean O'Hagan: {{% resource_link "037d69f0-4210-4681-a0b6-8896d8fcffab" "Profile: Sean O'Hagan" %}}. *The Guardian*.
 
 ### Watch
 
-"The Role of the Critic in Photography - Roger Ballen and Shelley Rice in Conversation." \[Watch [Part 1 on YouTube](https://www.youtube.com/watch?v=G14wLogS28s); Watch [Part 2 on YouTube](https://www.youtube.com/watch?v=WjSRtMhlgHI)\]
+"The Role of the Critic in Photography - Roger Ballen and Shelley Rice in Conversation." \[Watch {{% resource_link "7876ebcf-3adf-436d-bdea-f95effeef87e" "Part 1 on YouTube" %}}; Watch {{% resource_link "293fddd0-0d67-4abf-b353-62771a9c9f3c" "Part 2 on YouTube" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
 **Week 11: Tourism & Travel**
@@ -276,11 +276,11 @@ Photographs as Witnesses
 
 Tucker, Jennifer. “How Facial Recognition Photography Came to Be.”
 
-Gunning, Tom. "Embarrassing Evidence: The Detective Camera and the Documentary Impulse." In *Collecting Visible Evidence*. University of Minnesota Press, 1999. ISBN: 9780816631360. \[Preview with [Google Books](http://books.google.com/books?id=u9oR1bHibFgC&pg=PA46=onepage)\]
+Gunning, Tom. "Embarrassing Evidence: The Detective Camera and the Documentary Impulse." In *Collecting Visible Evidence*. University of Minnesota Press, 1999. ISBN: 9780816631360. \[Preview with {{% resource_link "c560c741-5df1-48db-a3b3-eaf61c6056fe" "Google Books" %}}\]
 
-Laurent, Oliver. “[Protecting the Right to Photograph, or Not to Be Photographed](https://lens.blogs.nytimes.com/2013/04/23/paris-city-of-rights/).” The New York Times, April 23, 2013.
+Laurent, Oliver. “{{% resource_link "d2117ba7-2e6d-4e53-99da-c919d0422184" "Protecting the Right to Photograph, or Not to Be Photographed" %}}.” The New York Times, April 23, 2013.
 
-Estrin, James. "[Criminalizing Photography](http://lens.blogs.nytimes.com/2012/08/14/criminalizing-photography/)." The New York Times, August 14, 2012.
+Estrin, James. "{{% resource_link "a5e8ba71-4229-4d89-ba16-beda55afb665" "Criminalizing Photography" %}}." The New York Times, August 14, 2012.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
@@ -296,13 +296,13 @@ Humanist photography
 
 ### Read
 
-Sontag, Susan. "[Looking at War](http://www.newyorker.com/magazine/2002/12/09/looking-at-war)." *The New Yorker,* December 9, 2002.
+Sontag, Susan. "{{% resource_link "2310ba3d-817c-4f0c-b98e-a17095d27340" "Looking at War" %}}." *The New Yorker,* December 9, 2002.
 
 \[NHP\] “Looking at Others: Humanism and Neo-realism.”
 
 \[Myth\] “Shock Photos” and “The Family of Man.”
 
-Lavoie, Vincent. "[War and the iPhone: New Fronts for Photojournalism](http://journals.openedition.org/etudesphotographiques/3480)." Translated by John Tittensor. *Etudes Photographiques* 29 (2012).
+Lavoie, Vincent. "{{% resource_link "665cbb00-7791-4648-aabe-46811ecff3dc" "War and the iPhone: New Fronts for Photojournalism" %}}." Translated by John Tittensor. *Etudes Photographiques* 29 (2012).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
